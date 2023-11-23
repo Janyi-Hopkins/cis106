@@ -20,4 +20,4 @@ semester : fall 23
 
 ## Question 5
 ![q5](q5.1.png)
-![q5.2](q5.2.png)
+![q5.2](q5.2.png)z
