@@ -50,19 +50,13 @@ course: cis 106
 * Linux Mint
 * Elementary OS 
 * Pop OS
-* Zorin OS 
-* Peppermint
 ## List of some of the Red Hat-based Linux distributions
 * Debian
 * Rocky Linux
 * EuroLinux
 * Fedora
-* CentOS
-* ClearSO
 ## List of some of the Ubuntu Based Linux Distributions
 * KDE neon
 * Xubuntu
 * Lubuntu
 * Ubuntu Budgie
-* Kubuntu
-* LXLE
