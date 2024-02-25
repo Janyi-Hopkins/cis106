@@ -133,7 +133,10 @@ Flatpak is a next generation technology for packaging, distributing, and managin
 `sudo`(if needed) + `flatpak` + `action` + `package id`
 ### Examples
 * Search for package
-  * `flatpak search "video player]+
+  * `flatpak search "video player"`
 * Install package
+  * `flatpak install org.videolan.VLC`
 * Remove flatpak
+  * `flatpak remove org.videolan.VLC`
 * Update packages
+  * `flatpak update`
