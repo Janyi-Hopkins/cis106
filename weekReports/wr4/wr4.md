@@ -13,7 +13,7 @@ course : cis106
 ![Question 2](q2.png)
 
 ## Challenge Question
-![Challenge Question]()
+![Challenge Question](challengeQuestion.png)
 
 ## Practice Question 3
 ![Practice 3](q3.png)
