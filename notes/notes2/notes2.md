@@ -6,6 +6,7 @@ course : cis106
 
 # Notes 2
 [Presentation](https://rapurl.live/s39)
+
 [Article](https://cis106.com/extra/thelinuxfs/)
 
 
