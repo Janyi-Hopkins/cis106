@@ -1,27 +1,22 @@
 ---
-name : Ja'nyi Hopkins Walker
-course : cis106
-semester : fall 23
+Student: Ja'nyi Hopkins
+semester: Spring 24
+Assignment: Lab 4
 ---
 
-# Lab 4 The Linux FS
+# Lab 4 Submission
 
-## Question 1
-![q1](lab4.1.png)<br>
-![q1.2](lab4.1.2)<br>
+## Question 1 | Moving Around the file System
+![q1](lab4.1.png)
+![q1.1](lab4.1.1.png)
 
-## Question 2
-![q2](lab4.2.1.png)<br>
-![q2.2](lab4.2.2.png)<br>
-![q2.3](lab4.2.3.png)<br>
+## Question 2 | The ls Command
+![q2](lab4.2.png)
+![q2.1](lab4.2.1.png)
 
-## Questions 4
-![q4](lab4.4.1.png)<br>
-![q4.2](lab4.4.2.png)<br>
-![q4.3](lab4.4.3.png)<br>
-![q4.4](lab4.4.4.png)<br>
-![q4.5](lab4.4.5.png)<br>
+## Question 3 | Shell Scripting
+![q3](lab4.3.png)
 
-## Question 5
-![q5](lab4.5.1.png)<br>
-![q5.2](lab4.5.2.png)<br>
+## Question 4 | Challenge Write a Script
+* [Script Source Code](lab4_challenge_script.sh)
+![q4](lab4.4.challenge.png)
