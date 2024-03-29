@@ -8,6 +8,7 @@ course : cis106
 
 ## Managing Files and Directories
 
+
 ## mkdir
 ### Definition 
 Used to create single or multiple directories.
@@ -20,6 +21,7 @@ Used to create single or multiple directories.
   * `mkdir wallpapers/ocean`
 * create a directory with a space in the name
   * `mkdir wallpapers/new\ cars`
+
 
 ## touch
 ### Definition 
@@ -34,6 +36,7 @@ Used for creating files.
 * create a file with a space in its name
   * `touch "list of foods.txt" `
 
+
 ## rm
 ### Definition 
 Used to remove files or non empty directories
@@ -47,6 +50,7 @@ Used to remove files or non empty directories
 * remove all the files inside a directory and ask before removing more than 3 files
   * `rm -I Downloads/games/* `
   
+
 ## rmdir
 ### Definition 
 Remove empty directories
@@ -55,6 +59,7 @@ Remove empty directories
 ### Examples
 * remove an empty directory
   * `rmdir Downloads/games`
+
 
 ## mv
 ### Definition 
@@ -72,6 +77,7 @@ Moves and renames files and directories
 * to rename a file
   * `mv homework.docx cis106homework.docx`
 
+
 ## cp
 ### Definition 
 Copies file and directories from a source to destination
@@ -88,6 +94,7 @@ Copies file and directories from a source to destination
 * to copy multiple files in a single command
   * `sudo cp -r script.sh program.py home.html assets/ /var/www/html/`
 
+
 ## file
 ### Definition 
 Determines the type of file
@@ -99,6 +106,7 @@ Determines the type of file
 * display file type without file name
   * `file -b filename`
 
+
 ## pdfinfo
 ### Definition 
 Displays information about pdf files
@@ -107,6 +115,7 @@ Displays information about pdf files
 ### Examples
 * display info of a file
   * `pdfinfo filename.pdf`
+
 
 ## mediainfo
 ### Definition 
@@ -121,6 +130,7 @@ Command line tool to display information about audio/video files
 * output information to an html file
   * `mediainfo --output=HTML example.png > file.html`
 
+
 ## exiv2
 ### Definition 
 Image metadata manipulation tool
@@ -131,6 +141,7 @@ Image metadata manipulation tool
   * `exiv2 example.png`
 * Displays all exif data about an image file
   * `exiv2 -pt example.png`
+
 
 ## exiftool
 ### Definition
