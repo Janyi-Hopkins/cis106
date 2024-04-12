@@ -1,7 +1,7 @@
 ---
 name : Ja'nyi Hopkins Walker
-semester : fall 23
-course : cis106
+semester : spring 24
+assignment : week report 6
 ---
 
 # Week Report 6
