@@ -50,12 +50,12 @@ Brace expansion uses the same symbols as the wildcard but is not the same. Brace
   
 ## Practice 
 
-### Practice 5 
-![practice5](w6-practice5.png)
+### Practice 1
+![practice1](w6-practice1.png)
 
-### Practice 6 
-![practice6](w6-practice6.png)
+### Practice 2
+![practice2](w6-practice2.png)
 
-### Practice 7
-![practice7](w6-practice7.png)
+### Practice 3
+![practice3](w6-practice3.png)
 
