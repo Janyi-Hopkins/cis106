@@ -44,7 +44,7 @@ Lighttpd, is pronounced as “lighty”. It is an open-source web server optimiz
 OpenLiteSpeed is the Open Source edition of LiteSpeed Web Server Enterprise. It contains all of the essential features, including HTTP/3 support. OLS provides enormous scalability, and an accelerated hosting platform for WordPress.
 
 ### Cherokee
-![alt text](image-6.png)
+![alt text](image.png)
 
 Cherokee is an open-source cross-platform web server that runs on Linux, BSD variants, Solaris, OS X, and Windows. It is a lightweight,high-performance web server/reverse proxy licensed under the GNU General Public License. Its goal is to be fast and fully functional yet still light. Major features of Cherokee include a graphical administration interface named cherokee-admin, and a modular light-weight design. 
 
