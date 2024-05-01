@@ -58,6 +58,6 @@ assignment : deliverable 2
   * Apache log files are a very helpful resource for troubleshooting, any error that you receive in a browser or other HTTP client will have a corresponding entry in Apache’s logs.
     * Example:
       * Showing Apache2 Log Files using tail and head
-        * ![example1](deliverable2-1.png)
+         ![example1](deliverable2-1.png)
       * Showing Apache2 Log Files using cut and delimeters
-        * ![example2](deliverable2.png)
+         ![example2](deliverable2.png)
